@@ -16,6 +16,15 @@ npm --version
 npm install --global gulp-cli
 ```
 
+#### Clone & install
+
+```sh
+git clone xxx
+```
+```sh
+ npm install
+```
+
 #### Run
 ```sh
 gulp
